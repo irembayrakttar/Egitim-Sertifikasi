@@ -4,7 +4,7 @@ Proje Amacı
 - Sertifikaların güvenli bir şekilde dijital ortamda saklanması
 - Sertifika doğrulamanın kolaylaştırılması
 - Sahte sertifikaların önüne geçilmesi
-- 
+  
 Kullanılan Araçlar
 
 - **Solidity** – Akıllı kontrat dili
@@ -15,7 +15,9 @@ Kullanılan Araçlar
 - **GitHub Copilot** – Kod yazarken yardımcı olan yapay zeka
 
  Sertifikalarda şu bilgiler saklanır:
-  - Sertifika ID’si
-  - Öğrenci adı
-  - Kurs adı
-  - Tarih
+ 
+ - Sertifika ID’si
+ - Öğrenci adı
+ - Kurs adı
+ - Tarih
+ - ID numarası sayesinde sorgulama yapılır
